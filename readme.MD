@@ -1,10 +1,10 @@
 This Discord Bot was made for personal use, set it to public for anyone needing to setup a bot for their Zomboid Server.
 Install requirements using >pip install -r requirements.txt
 
-**WHAT IT CAN DO** (so far ...)
-Monitor and display player count as status.
-Send a few RCON commands to the server's Zomboid console (see /help). 
-Perform stop/start/restart of running instance - requires modification for these commands. 
+**WHAT IT CAN DO** (so far ...) <br/>
+Monitor and display player count as status. <br/>
+Send a few RCON commands to the server's Zomboid console (see /help). <br/>
+Perform stop/start/restart of running instance - requires modification for these commands. <br/> 
 
 Make sure that you update the following under config.py
 
